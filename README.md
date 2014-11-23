@@ -8,11 +8,10 @@ Helps you to share codes and links when you are working on a project or working 
 Receive Notification when other users copy any clip.
 Mechanism which helps you to simulate the concept of shortcut copy paste on different PC.
 
-Command to run the server : 'java -jar CPserver.jar'
 
 IF YOU CHOOSE PRIVATE NETWORK :
 
-1) Run the server CPserver in a PC, which would act as server PC. 
+1) Run the server CPserver in a PC, which would act as server PC. Command to run the server : 'java -jar CPserver.jar'.
 
 2) Run CPclient on other PC's.
 
@@ -24,12 +23,18 @@ IF YOU CHOOSE PRIVATE NETWORK :
 
 6) Enter unique name for each client when asked to. 
 
-8) READY TO GO!
+8) Use on/off button to go online and offline.
+
+9) READY TO GO!
 
 IF YOU CHOOSE INTERNET :
 
 1) Get connected to internet.
 
-2) Enter unique name for each client when asked to. 
+2) Enter unique name when asked to. 
 
-3) READY TO GO!
+3) Enter list of users you want to share the clip.
+
+4) Use on/off button to go online and offline.
+
+5) READY TO GO!
