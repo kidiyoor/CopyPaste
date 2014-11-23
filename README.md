@@ -8,6 +8,7 @@ Helps you to share codes and links when you are working on a project or working 
 Receive Notification when other users copy any clip.
 Mechanism which helps you to simulate the concept of shortcut copy paste on different PC.
 
+Command to run the server : 'java -jar CPserver.jar'
 
 1) Run the server CPserver in a PC, which would act as server PC. 
 
