@@ -10,6 +10,8 @@ Mechanism which helps you to simulate the concept of shortcut copy paste on diff
 
 Command to run the server : 'java -jar CPserver.jar'
 
+IF YOU CHOOSE PRIVATE NETWORK :
+
 1) Run the server CPserver in a PC, which would act as server PC. 
 
 2) Run CPclient on other PC's.
@@ -20,8 +22,14 @@ Command to run the server : 'java -jar CPserver.jar'
 
 5) Enter the IP of the server PC in in client program when asked to.
 
-6) Enter unique name for each client. 
-
-7) Enter the list of users whom you want to share your clip. 
+6) Enter unique name for each client when asked to. 
 
 8) READY TO GO!
+
+IF YOU CHOOSE INTERNET :
+
+1) Get connected to internet.
+
+2) Enter unique name for each client when asked to. 
+
+3) READY TO GO!
