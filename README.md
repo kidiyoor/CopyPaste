@@ -38,3 +38,5 @@ IF YOU CHOOSE INTERNET :
 4) Use on/off button to go online and offline.
 
 5) READY TO GO!
+
+contact : vk_gautham@ymail.com
