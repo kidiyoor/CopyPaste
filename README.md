@@ -1,6 +1,8 @@
 CopyPaste
 =========
 
+[http://kidiyoor.github.io/CopyPaste]
+
 Copy content from one PC using CTRL C and use CTRL V on other PC where you want to PASTE the content.
 JAVA implementation using JNativeHook, java sockets and clipboard. Hashset and handlers are used to manage multiple clients.
 Mechanism which helps you to simulate the concept of shortcut copy paste on different PC.
@@ -26,5 +28,3 @@ java -jar CPserver.jar
 9) READY TO GO!
 
 contact : gauthamvk@gmail.com
-
-[http://kidiyoor.github.io/CopyPaste]
