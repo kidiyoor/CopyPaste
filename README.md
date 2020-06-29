@@ -25,4 +25,4 @@ java -jar CPserver.jar
 
 9) READY TO GO!
 
-contact : vk_gautham@ymail.com
+contact : gauthamvk@gmail.com
